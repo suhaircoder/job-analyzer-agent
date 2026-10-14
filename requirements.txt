@@ -1,0 +1,7 @@
+gradio
+PyPDF2
+python-docx
+requests
+cohere
+language-tool-python
+python-dotenv
