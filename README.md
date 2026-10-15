@@ -30,9 +30,18 @@ A multi-agent system that scores CVs, checks ATS-friendliness, gives recruiter-l
 
 ## 🖼 Demo
 
-> Add a screenshot to `assets/screenshot.png` and it will render here.
-
-![Job Analyzer Agent Screenshot](assets/screenshot.png)
+<table>
+  <tr>
+    <td width="50%">
+      <img src="assets/screenshot-analyze.png" alt="CV Analysis tab" width="100%"/>
+      <p align="center"><em>📊 Analyze — score, ATS check, grammar, AI suggestions</em></p>
+    </td>
+    <td width="50%">
+      <img src="assets/screenshot-job-match.png" alt="Job Match tab" width="100%"/>
+      <p align="center"><em>🎯 Job Match — keyword match + tailoring advice</em></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
